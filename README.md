@@ -3,6 +3,14 @@
 This project implements a machine learning model to predict credit approval for applicants based on their financial and demographic data. The model uses logistic regression and provides metrics such as accuracy, ROC-AUC, and feature importance (odds ratios).
 
 ---
+## Dataset
+This project uses the **Credit Card Approval Clean Data** dataset from Kaggle:  
+[Credit Card Approval Dataset](https://www.kaggle.com/datasets/samuelcortinhas/credit-card-approval-clean-data)  
+
+**Credits:**  
+> Dataset by Samuel Cortinhas on Kaggle
+
+---
 
 ## Project Structure
 
@@ -77,6 +85,7 @@ jupyter notebook
 ```
 
 ---
+
 
 ## Output
 
